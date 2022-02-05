@@ -82,29 +82,220 @@ Homework problems will typically be assigned every Monday and will be due at the
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework (including MATLAB® problems) | 30% |
-| Mid-term exams (2) | 40% |
-| Final exam | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework (including MATLAB® problems)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term exams (2)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
 List of Topics
 --------------
 
-| SES # | Topics |
-| --- | --- |
-| {{< td-colspan 2 >}}**I. Motion of a Single Particle**{{< /td-colspan >}} ||
-| L1-L3 |  {{< br >}}{{< br >}} Kinematics: Trajectory, Velocity, Acceleration, Inertial Frame, Moving Frames {{< br >}}{{< br >}} Forces and Torques {{< br >}}{{< br >}} Linear Momentum Principle {{< br >}}{{< br >}} Angular Momentum Principle {{< br >}}{{< br >}} Work-Energy Principle {{< br >}}{{< br >}} Equations of Motion {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**II. Motion of Systems of Particles**{{< /td-colspan >}} ||
-| L4-L6 |  {{< br >}}{{< br >}} Internal and External Forces {{< br >}}{{< br >}} Linear Momentum Principle {{< br >}}{{< br >}} Angular Momentum Principle {{< br >}}{{< br >}} Work-Energy Principle {{< br >}}{{< br >}} Conservative Systems {{< br >}}{{< br >}} Impulsive Forces {{< br >}}{{< br >}} Collisions {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**III. 2D Motion of Rigid Bodies**{{< /td-colspan >}} ||
-| L7-L12 |  {{< br >}}{{< br >}} Kinematics: Angular Velocity, Instantaneous Center of Rotation {{< br >}}{{< br >}} Linear Momentum Principle {{< br >}}{{< br >}} Angular Momentum Principle {{< br >}}{{< br >}} Work-Energy Principle {{< br >}}{{< br >}} Parallel Axis Theorem {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**IV. Introduction to Lagrangian Dynamics**{{< /td-colspan >}} ||
-| L13-L19 |  {{< br >}}{{< br >}} Constraints and Forces {{< br >}}{{< br >}} Ideal Constraints {{< br >}}{{< br >}} Virtual Displacements {{< br >}}{{< br >}} Virtual Work {{< br >}}{{< br >}} D'Alembert's Principle {{< br >}}{{< br >}} Generalized Coordinates and Forces {{< br >}}{{< br >}} Lagrangian Equations of Motion For 2D Holonomic Systems of Particles {{< br >}}{{< br >}} Equilibria {{< br >}}{{< br >}} Linearization of Equations {{< br >}}{{< br >}} Stability {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**V. Vibrations**{{< /td-colspan >}} ||
-| L20-L24 |  {{< br >}}{{< br >}} 1-Degree-of-Freedom Oscillations: Natural Frequencies, Free-, Damped-, and Forced Response {{< br >}}{{< br >}} Multi-Degree-of-Freedom Oscillations: Natural Frequencies, Normal Modes, Free-, Damped-, and Forced Response {{< br >}}{{< br >}} Time Response {{< br >}}{{< br >}} Frequency Response {{< br >}}{{< br >}} Bode Plots {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**I. Motion of a Single Particle**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1-L3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kinematics: Trajectory, Velocity, Acceleration, Inertial Frame, Moving Frames
+
+Forces and Torques
+
+Linear Momentum Principle
+
+Angular Momentum Principle
+
+Work-Energy Principle
+
+Equations of Motion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**II. Motion of Systems of Particles**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4-L6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Internal and External Forces
+
+Linear Momentum Principle
+
+Angular Momentum Principle
+
+Work-Energy Principle
+
+Conservative Systems
+
+Impulsive Forces
+
+Collisions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**III. 2D Motion of Rigid Bodies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7-L12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kinematics: Angular Velocity, Instantaneous Center of Rotation
+
+Linear Momentum Principle
+
+Angular Momentum Principle
+
+Work-Energy Principle
+
+Parallel Axis Theorem
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**IV. Introduction to Lagrangian Dynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13-L19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Constraints and Forces
+
+Ideal Constraints
+
+Virtual Displacements
+
+Virtual Work
+
+D'Alembert's Principle
+
+Generalized Coordinates and Forces
+
+Lagrangian Equations of Motion For 2D Holonomic Systems of Particles
+
+Equilibria
+
+Linearization of Equations
+
+Stability
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**V. Vibrations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20-L24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1-Degree-of-Freedom Oscillations: Natural Frequencies, Free-, Damped-, and Forced Response
+
+Multi-Degree-of-Freedom Oscillations: Natural Frequencies, Normal Modes, Free-, Damped-, and Forced Response
+
+Time Response
+
+Frequency Response
+
+Bode Plots
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -113,60 +304,705 @@ Calendar
 
 The calendar below provides information on the course's lecture (L), recitations (R) and MATLAB® laboratory (M) sessions.
 
-| ses # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Motion of a Single Particle**{{< /td-colspan >}} |||
-| L1 | Newton's Laws, Cartesian and Polar Coordinates, Dynamics of a Single Particle |  |
-| M1 | Introduction and Overview of MATLAB® |  |
-| L2 | Work-Energy Principle | Problem set 1 out |
-| L3 | Dynamics of a Single Particle: Angular Momentum |  |
-| R1 | Kinematics |  |
-| M2 | Lab 1: MATLAB® Interface and Matrix Multiplication |  |
-| {{< td-colspan 3 >}}**II. Motion of Systems of Particles**{{< /td-colspan >}} |||
-| L4 | Systems of Particles: Angular Momentum and Work Energy Principle |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-| L5 | Systems of Particles: Example 1: Linear Momentum and Conservation of Energy, Example 2: Angular Momentum |  |
-| R2 | Systems of Particles: Linear and Angular Momentum, Solutions in MATLAB® |  |
-| M3 | Lab 2: Conditionals I |  |
-| L6 | Collisions |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**III. 2D-Motion of Rigid Bodies**{{< /td-colspan >}} |||
-| L7 | 2D-Motion of Rigid Bodies: Kinematics |  |
-| R3 | Collisions and Problem Set 3 Hints |  |
-| M4 | Lab 3: Conditionals II |  |
-| L8 | 2D-Motion of Rigid Bodies: Kinematics - Instant Centers; Kinetics |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-| L9 | 2D-Motion of Rigid Bodies: Kinetics, Parallel Axis Theorem |  |
-| R4 | Instant Centers and Problem Set 4 Hints |  |
-| M5 | Lab 4: Functions I |  |
-| L10 | 2D-Motion of Rigid Bodies: Falling Stick Example, Work-Energy Principle |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 out {{< br >}}{{< br >}}  |
-| L11 | 2D-Motion of Rigid Bodies: Finding Moments of Inertia, Rolling Cylinder with Hole Example |  |
-| R5 | Moments of Inertia and Problem Set 5 Hints |  |
-| M6 | Lab 5: Functions II |  |
-| L12 | 2D-Motion of Rigid Bodies: Rolling Cylinder and Rocker Examples |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Exam 1 two days after Ses #L12 {{< br >}}{{< br >}}  |
-| R6 | Exam 1: Problems 1 and 2 |  |
-| M7 | Lab 6: Algorithms |  |
-| M8 | Lab 7: ODE I |  |
-| {{< td-colspan 3 >}}**IV. Introduction to Lagrangian Dynamics**{{< /td-colspan >}} |||
-| L13 | Lagrangian Dynamics: Generalized Coordinates and Forces |  |
-| L14 | Lagrangian Dynamics: Virtual Work and Generalized Forces |  |
-| R7 | Virtual Work, Generalized Forces, Problem Set 6 Hints |  |
-| M9 | Lab 8: ODE II |  |
-| L15 | Lagrangian Dynamics: Derivations of Lagrange's Equations and Examples |  {{< br >}}{{< br >}} Problem set 6 due {{< br >}}{{< br >}} Problem set 7 out {{< br >}}{{< br >}}  |
-| L16 | Lagrangian Dynamics: Examples |  |
-| R8 | Problem Set 7 Hints |  |
-| M10 | Lab 9: Eigenvalue Problems |  |
-| L17 | Lagrangian Dynamics: Examples and Equilibrium Analysis |  {{< br >}}{{< br >}} Problem set 7 due {{< br >}}{{< br >}} Problem set 8 out {{< br >}}{{< br >}}  |
-| R9 | Problem Set 8 Hints: Problem 1 |  |
-| M11 | Lab 10: Project |  |
-| L18 | Lagrangian Dynamics: Examples and Equilibrium Analysis |  |
-| L19 | Lagrangian Dynamics: Examples and Equilibrium Analysis |  {{< br >}}{{< br >}} Problem set 8 due {{< br >}}{{< br >}} Exam 2 five days after Ses #L19 {{< br >}}{{< br >}}  |
-| R10 | Rolling Disk: Sample Exam Question |  |
-| M12 | Lab 11: Project |  |
-| {{< td-colspan 3 >}}**V. Vibrations**{{< /td-colspan >}} |||
-| L20 | Vibrations: Second Order Systems with One Degree of Freedom - Free Response | Problem set 9 out |
-| R11 | Review of Lecture 20: Second Order Systems with One Degree of Freedom |  |
-| M13 | Lab 12: Project |  |
-| L21 | Vibrations: Second Order Systems with One Degree of Freedom - Forced Response |  |
-| L22 | Vibrations: Free Response of Multi-Degree-of-Freedom Systems |  {{< br >}}{{< br >}} Problem set 9 due {{< br >}}{{< br >}} Problem set 10 out (optional) {{< br >}}{{< br >}}  |
-| R12 | Problem Set 10 Hints: Problem 3 |  |
-| M14 | Lab 13: Project |  |
-| L23 | Vibrations: Two Degrees of Freedom Systems - Wilberforce Pendulum |  |
-| L24 | Vibrations: Forced Response of Multi-Degree-of-Freedom Systems | Final exam 8 days after Ses #L24
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Motion of a Single Particle**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Newton's Laws, Cartesian and Polar Coordinates, Dynamics of a Single Particle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Overview of MATLAB®
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Work-Energy Principle
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of a Single Particle: Angular Momentum
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Kinematics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M2
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1: MATLAB® Interface and Matrix Multiplication
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Motion of Systems of Particles**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Systems of Particles: Angular Momentum and Work Energy Principle
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Systems of Particles: Example 1: Linear Momentum and Conservation of Energy, Example 2: Angular Momentum
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Systems of Particles: Linear and Angular Momentum, Solutions in MATLAB®
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M3
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2: Conditionals I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Collisions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. 2D-Motion of Rigid Bodies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+2D-Motion of Rigid Bodies: Kinematics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Collisions and Problem Set 3 Hints
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M4
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3: Conditionals II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+2D-Motion of Rigid Bodies: Kinematics - Instant Centers; Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+2D-Motion of Rigid Bodies: Kinetics, Parallel Axis Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Instant Centers and Problem Set 4 Hints
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M5
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 4: Functions I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+2D-Motion of Rigid Bodies: Falling Stick Example, Work-Energy Principle
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+2D-Motion of Rigid Bodies: Finding Moments of Inertia, Rolling Cylinder with Hole Example
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Moments of Inertia and Problem Set 5 Hints
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M6
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5: Functions II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+2D-Motion of Rigid Bodies: Rolling Cylinder and Rocker Examples
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Exam 1 two days after Ses #L12
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1: Problems 1 and 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M7
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 6: Algorithms
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M8
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 7: ODE I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Introduction to Lagrangian Dynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Dynamics: Generalized Coordinates and Forces
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Dynamics: Virtual Work and Generalized Forces
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Virtual Work, Generalized Forces, Problem Set 6 Hints
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M9
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 8: ODE II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Dynamics: Derivations of Lagrange's Equations and Examples
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due
+
+Problem set 7 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Dynamics: Examples
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 Hints
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M10
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 9: Eigenvalue Problems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Dynamics: Examples and Equilibrium Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 7 due
+
+Problem set 8 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 Hints: Problem 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M11
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 10: Project
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Dynamics: Examples and Equilibrium Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrangian Dynamics: Examples and Equilibrium Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 8 due
+
+Exam 2 five days after Ses #L19
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Rolling Disk: Sample Exam Question
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M12
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 11: Project
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Vibrations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrations: Second Order Systems with One Degree of Freedom - Free Response
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Lecture 20: Second Order Systems with One Degree of Freedom
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M13
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 12: Project
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrations: Second Order Systems with One Degree of Freedom - Forced Response
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrations: Free Response of Multi-Degree-of-Freedom Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 9 due
+
+Problem set 10 out (optional)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R12
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 10 Hints: Problem 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M14
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 13: Project
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrations: Two Degrees of Freedom Systems - Wilberforce Pendulum
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrations: Forced Response of Multi-Degree-of-Freedom Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam 8 days after Ses #L24
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

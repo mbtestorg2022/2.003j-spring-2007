@@ -7,15 +7,200 @@ uid: 7fd70b2a-81d7-9b62-fc07-cc6a7e2d0b15
 Problem Sets
 ------------
 
-| PROBLEM SETS | PROBLEMS |
-| --- | --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/problemset1)) |  {{< br >}}{{< br >}} Payload Release {{< br >}}{{< br >}} Radar Antenna {{< br >}}{{< br >}} Satellite Orbit {{< br >}}{{< br >}} Rotating Arm {{< br >}}{{< br >}}  |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/problemset2)) |  {{< br >}}{{< br >}} Pivoting Tube {{< br >}}{{< br >}} Sliding Plate {{< br >}}{{< br >}} Bungee Jumper {{< br >}}{{< br >}} Sliding Collar on a Vertical Frame {{< br >}}{{< br >}}  |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/problemset3)) |  {{< br >}}{{< br >}} Sliding Dumbbell {{< br >}}{{< br >}} Carriage and Pendulum {{< br >}}{{< br >}} Restitution Coefficient {{< br >}}{{< br >}} Basketball Collision {{< br >}}{{< br >}}  |
-| Problem set 4 ([PDF]({{< baseurl >}}/resources/problemset4)) |  {{< br >}}{{< br >}} Cable Reel {{< br >}}{{< br >}} Sliding Bar {{< br >}}{{< br >}} Instant Centers {{< br >}}{{< br >}} Plunger and Roller {{< br >}}{{< br >}}  |
-| Problem set 5 ([PDF]({{< baseurl >}}/resources/problemset5)) |  {{< br >}}{{< br >}} Rod Leaning on a Moving Frame {{< br >}}{{< br >}} Tipping a Crate {{< br >}}{{< br >}} Slab Falling Off an Edge {{< br >}}{{< br >}} I-beam on a Hinge {{< br >}}{{< br >}}  |
-| Problem set 6 ([PDF]({{< baseurl >}}/resources/problemset6)) |  {{< br >}}{{< br >}} Two-link Pendulum {{< br >}}{{< br >}} Slider-crank Mechanism {{< br >}}{{< br >}} Link-chain {{< br >}}{{< br >}} Rolling Cylinders {{< br >}}{{< br >}}  |
-| Problem set 7 ([PDF]({{< baseurl >}}/resources/problemset7)) |  {{< br >}}{{< br >}} Two Carts {{< br >}}{{< br >}} Centrifuge {{< br >}}{{< br >}} Rigid Body Pendulum {{< br >}}{{< br >}}  |
-| Problem set 8 ([PDF]({{< baseurl >}}/resources/problemset8)) |  {{< br >}}{{< br >}} Double Mass and Spring Pendulum {{< br >}}{{< br >}} String and Rod Pendulum {{< br >}}{{< br >}} Cart and Pendulum System {{< br >}}{{< br >}}  |
-| Problem set 9 ([PDF]({{< baseurl >}}/resources/problemset9)) |  {{< br >}}{{< br >}} Masses and Pulleys {{< br >}}{{< br >}} Highway Crash Barriers {{< br >}}{{< br >}} Air and Oil {{< br >}}{{< br >}}  |
-| Problem set 10 ([PDF]({{< baseurl >}}/resources/problemset10)) |  {{< br >}}{{< br >}} Carts {{< br >}}{{< br >}} Double Mass and Spring Pendulum Revisited {{< br >}}{{< br >}} Suspension {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/problemset1))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Payload Release
+
+Radar Antenna
+
+Satellite Orbit
+
+Rotating Arm
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/problemset2))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pivoting Tube
+
+Sliding Plate
+
+Bungee Jumper
+
+Sliding Collar on a Vertical Frame
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/problemset3))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sliding Dumbbell
+
+Carriage and Pendulum
+
+Restitution Coefficient
+
+Basketball Collision
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4 ([PDF]({{< baseurl >}}/resources/problemset4))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cable Reel
+
+Sliding Bar
+
+Instant Centers
+
+Plunger and Roller
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5 ([PDF]({{< baseurl >}}/resources/problemset5))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rod Leaning on a Moving Frame
+
+Tipping a Crate
+
+Slab Falling Off an Edge
+
+I-beam on a Hinge
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 6 ([PDF]({{< baseurl >}}/resources/problemset6))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Two-link Pendulum
+
+Slider-crank Mechanism
+
+Link-chain
+
+Rolling Cylinders
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 7 ([PDF]({{< baseurl >}}/resources/problemset7))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Two Carts
+
+Centrifuge
+
+Rigid Body Pendulum
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 8 ([PDF]({{< baseurl >}}/resources/problemset8))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Double Mass and Spring Pendulum
+
+String and Rod Pendulum
+
+Cart and Pendulum System
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 9 ([PDF]({{< baseurl >}}/resources/problemset9))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Masses and Pulleys
+
+Highway Crash Barriers
+
+Air and Oil
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 10 ([PDF]({{< baseurl >}}/resources/problemset10))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carts
+
+Double Mass and Spring Pendulum Revisited
+
+Suspension
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
