@@ -6,6 +6,7 @@ description: This resource contains lecture notes on vibrations, forced response
   diagrams.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-spring-2007/81544b5ec000784ed88d4786188add28_lec24.pdf
 file_type: application/pdf
+parent_uid: ff6105c6-0132-46bc-ca99-ad17eebefe7a
 resourcetype: Document
 title: lec24.pdf
 uid: 81544b5e-c000-784e-d88d-4786188add28

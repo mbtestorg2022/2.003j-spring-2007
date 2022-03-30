@@ -7,6 +7,7 @@ description: 'This resource contains lecture notes on collisions, impulses, coll
   mass.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-spring-2007/e12ed118aeb1eb716db972ab23f4b982_lec06.pdf
 file_type: application/pdf
+parent_uid: ff6105c6-0132-46bc-ca99-ad17eebefe7a
 resourcetype: Document
 title: lec06.pdf
 uid: e12ed118-aeb1-eb71-6db9-72ab23f4b982

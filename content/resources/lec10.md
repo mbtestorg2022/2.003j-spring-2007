@@ -6,6 +6,7 @@ description: This resource contains lecture notes on 2D-motion of rigid bodies, 
   rigid bodies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003j-dynamics-and-control-i-spring-2007/d8f0c9b99823d0b012ed08bb72c25f47_lec10.pdf
 file_type: application/pdf
+parent_uid: ff6105c6-0132-46bc-ca99-ad17eebefe7a
 resourcetype: Document
 title: lec10.pdf
 uid: d8f0c9b9-9823-d0b0-12ed-08bb72c25f47
